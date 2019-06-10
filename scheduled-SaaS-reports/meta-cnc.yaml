@@ -2,10 +2,10 @@
 # https://github.com/PaloAltoNetworks/panhandler/blob/develop/docs/metadata_configuration.rst
 
 # unique snippet name
-name: Shadow-IT_Report
+name: Panorama_Shadow-IT_Report
 # label used for menu selection
-label: Scheduled Shadow-IT Report
-description: Used to configure a scheduled Shadow-IT - SaaS Application Usage Report - To be delivered each week
+label: Scheduled Shadow-IT Report from Panorama
+description: Used to configure a scheduled Shadow-IT - SaaS Application Usage Report from Panorama provining visibility across all NGFW - To be delivered each week
 
 # type of device configuration
 # common types are panorama, panos, and template
