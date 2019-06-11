@@ -4,7 +4,7 @@
 # unique snippet name
 name: Panorama_ShadowIT_Report
 # label used for menu selection
-label: Scheduled Shadow-IT Report from Panorama
+label: Scheduled ShadowIT Report from Panorama
 description: Used to configure a scheduled Shadow-IT - SaaS Application Usage Report from Panorama provining visibility across all NGFW - To be delivered each week
 
 # type of device configuration
